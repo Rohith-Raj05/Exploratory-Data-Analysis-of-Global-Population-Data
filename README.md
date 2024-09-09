@@ -47,12 +47,3 @@ This repository contains a Python script for performing Exploratory Data Analysi
    ```
 
 4. Run the script
-
-## Expected Output
-
-The script will produce:
-- **DataFrame Summary:** Basic info, statistics, and null values.
-- **Top 10 Countries by Population (2022):** List of countries with the highest population.
-- **Average Population by Continent:** Visualizations of average population across continents.
-- **Transposed Data Visualizations:** Reversed and transposed plots of population data.
-- **Boxplots:** Distribution of population data for each continent.
