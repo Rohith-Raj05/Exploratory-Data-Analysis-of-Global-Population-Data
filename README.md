@@ -1,4 +1,4 @@
-# Exploratory-data-analysisSure, here's the README content in plain text:
+# Exploratory-data-analysis
 
 This repository contains a Python script for performing Exploratory Data Analysis (EDA) on a world population dataset using pandas, seaborn, and matplotlib. The goal of this project is to analyze and visualize world population data to extract meaningful insights. The dataset includes information on the population of countries across different continents.
 
